@@ -4,7 +4,7 @@ Log4j漏洞检测工具
 # Log4j2_detect工具使用说明
 ## 一、Windows
 1.	解压log4j2_detect.tgz
-2.	Ctrl+r
+2.	Win+r
 3.	弹出框中输入如下字符
 
 ![图片](https://user-images.githubusercontent.com/95903558/145534891-3dc52db0-cfc9-464a-8e43-bc0dccf536b6.png)
