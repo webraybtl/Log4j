@@ -14,10 +14,10 @@ https://github.com/apache/logging-log4j2/tags
 
 # 程序截图
 
-![图片](https://raw.githubusercontent.com/webraybtl/Log4j/main/imgs/1.png)
+![图片](http://r444q2fv9.hn-bkt.clouddn.com/1.png)
 
 
-![图片](https://raw.githubusercontent.com/webraybtl/Log4j/main/imgs/2.png)
+![图片](http://r444q2fv9.hn-bkt.clouddn.com/2.png)
 
 
-![图片](https://raw.githubusercontent.com/webraybtl/Log4j/main/imgs/3.png)
+![图片](http://r444q2fv9.hn-bkt.clouddn.com/3.png)
