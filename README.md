@@ -4,7 +4,7 @@ Log4j漏洞自查工具
 # Log4j2_detect工具使用说明
 1、本工具用于自查本地服务器是否使用了与log4j相关的漏洞组件
 
-2、支持windows(64位)、linux平台使用，windows支持命令行和界面版
+2、支持windows、linux平台使用，windows支持命令行和界面版
 
 3、检测原理：
 
@@ -28,12 +28,12 @@ https://github.com/apache/logging-log4j2/tags
 
 windows-命令行
 
-![图片](http://r444q2fv9.hn-bkt.clouddn.com/1.png)
+![图片](http://r444q2fv9.hn-bkt.clouddn.com/win.png)
 
 linux-命令行
 
-![图片](http://r444q2fv9.hn-bkt.clouddn.com/2.png)
+![图片](http://r444q2fv9.hn-bkt.clouddn.com/lin.png)
 
 windows-gui
 
-![图片](http://r444q2fv9.hn-bkt.clouddn.com/3.png)
+![图片](http://r444q2fv9.hn-bkt.clouddn.com/wingui.png)
