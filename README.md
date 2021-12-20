@@ -16,7 +16,8 @@ Log4j漏洞自查工具
 
 5、漏洞版本：
 
-log4j2.x && <2.16.0，其中2.15.0-rc2属于疑似漏洞版本，建议更新
+rce漏洞:log4j2.x && <2.16.0，其中2.15.0属于疑似漏洞版本(rc1有漏洞rc2无漏洞)
+dos漏洞:log4j2.x && <2.17.0
 
 6、修复建议：
 
@@ -28,12 +29,12 @@ https://github.com/apache/logging-log4j2/tags
 
 windows-命令行
 
-![图片](http://r444q2fv9.hn-bkt.clouddn.com/win.png)
+![图片](http://r444q2fv9.hn-bkt.clouddn.com/win2-2.png)
 
 linux-命令行
 
-![图片](http://r444q2fv9.hn-bkt.clouddn.com/lin.png)
+![图片](http://r444q2fv9.hn-bkt.clouddn.com/lin2-2.png)
 
 windows-gui
 
-![图片](http://r444q2fv9.hn-bkt.clouddn.com/wingui.png)
+![图片](http://r444q2fv9.hn-bkt.clouddn.com/wingui2-2.png)
