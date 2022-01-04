@@ -39,3 +39,7 @@ linux-命令行
 windows-gui
 
 ![图片](http://r444q2fv9.hn-bkt.clouddn.com/wingui2-2.png)
+
+了解更多详情可关注我们的公众号：
+
+![图片](http://r444q2fv9.hn-bkt.clouddn.com/qrcode_for_gh_9e53931bba71_430.jpg)
